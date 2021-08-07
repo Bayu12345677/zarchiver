@@ -2,6 +2,7 @@
 
 Cara install :
 pkg install zip
+
 git clone https://github.com/Bayu12345677/zarchiver
 
 Cara run
